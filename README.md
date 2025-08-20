@@ -1,2 +1,6 @@
-# Capstone-project-1-my-portfolio
-A simple personal portfolio website using HTML
+# Capstone Project 1 – My Portfolio
+
+This is my personal portfolio website built with **HTML**.  
+It contains basic pages like home, hobbies, and contact.
+
+## 📂 Project Structure
